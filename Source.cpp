@@ -15,7 +15,7 @@ int main() {
 	cout << "\n*********************"
 		<< "\n*** MAGIC NUMBERS ***"
 		<< "\n*********************"
-		<< "\n\nTheir are " << numStonesRemaining << " stones."
+		<< "\n\nThere are " << numStonesRemaining << " stones."
 		<< "\nTake 1, 2, or 3."
 		<< "\nTo win, don't take the last stone."
 		<< "\n\n\n";
